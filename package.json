@@ -1,0 +1,23 @@
+{
+  "name": "DockerPlayground",
+  "version": "0.0.1",
+  "description": "Basic hello world for nodejs on docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SidBala/DockerPlayground.git"
+  },
+  "author": "Sid Bala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SidBala/DockerPlayground/issues"
+  },
+  "homepage": "https://github.com/SidBala/DockerPlayground",
+  "dependencies": {
+    "express": "^4.11.1"
+  }
+}
