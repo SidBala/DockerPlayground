@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/SidBala/DockerPlayground",
   "dependencies": {
-    "express": "^4.11.1"
+    "bluebird": "^2.9.4",
+    "etcd": "0.0.3",
+    "express": "^4.11.1",
+    "fivebeans": "^1.1.1",
+    "node-etcd": "^3.0.2"
   }
 }
