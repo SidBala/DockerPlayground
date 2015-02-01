@@ -1,6 +1,6 @@
 var Etcd = require('node-etcd');
 
-var etcd = new Etcd('127.0.0.1', '4001');
+var etcd = new Etcd('172.17.42.1', '4001');
 
 console.log('Running');
 
